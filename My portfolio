@@ -1094,16 +1094,7 @@
           <div class="skill-icon">🤖</div>
           <div class="skill-name">Machine Learning</div>
         </div>
-        <p class="skill-desc">Regression models, decision trees, dataset scaling using Pandas, scikit-learn.</p>
-      </div>
-
-      <!-- Item 11 (AI) -->
-      <div class="skill-card" data-category="ai-ml">
-        <div class="skill-header">
-          <div class="skill-icon">🐼</div>
-          <div class="skill-name">Pandas</div>
-        </div>
-        <p class="skill-desc">Data cleaning, merging, DataFrame manipulation, and preprocessing structured datasets.</p>
+        <p class="skill-desc">Regression models, decision trees, dataset scaling using scikit-learn.</p>
       </div>
 
       <!-- Item 7 (AI) -->
@@ -1122,15 +1113,6 @@
           <div class="skill-name">Generative AI</div>
         </div>
         <p class="skill-desc">Prompt engineering techniques, parameter optimization, fine-tuning structures.</p>
-      </div>
-
-      <!-- Item 9 (AI) -->
-      <div class="skill-card" data-category="ai-ml">
-        <div class="skill-header">
-          <div class="skill-icon">📊</div>
-          <div class="skill-name">Power BI</div>
-        </div>
-        <p class="skill-desc">Aggregating datasets, building visual metrics, dashboard filters, and business intelligence.</p>
       </div>
 
       <!-- Item 10 (Tools) -->
@@ -1167,12 +1149,12 @@
       <div class="timeline-card">
         <div class="timeline-header">
           <div>
-            <h3 class="timeline-title">Web Development Intern — Frontend</h3>
-            <span class="timeline-company">Datanerdz AI Pvt. Ltd</span>
+            <h3 class="timeline-title">Web Development Intern</h3>
+            <span class="timeline-company">Thiranex</span>
           </div>
-          <span class="timeline-date">Dec 2025 – Jan 2026</span>
+          <span class="timeline-date">Jun 2026 – Jul 2026</span>
         </div>
-        <p class="timeline-desc">Implemented responsive web layouts and interface mockups using semantic HTML5, CSS3 modules, and vanilla JavaScript. Contributed to resolving responsive viewport bugs, improving page loading speeds, and optimizing graphic assets.</p>
+        <p class="timeline-desc">Developed responsive and user-friendly web applications using HTML, CSS, JavaScript, and React.js. Collaborated with the development team to build, test, and enhance web application features. Optimized website performance and resolved UI issues to improve the overall user experience.</p>
       </div>
     </div>
 
@@ -1182,12 +1164,12 @@
       <div class="timeline-card">
         <div class="timeline-header">
           <div>
-            <h3 class="timeline-title">Web Development Intern</h3>
-            <span class="timeline-company">Thiranex</span>
+            <h3 class="timeline-title">Web Development Intern — Frontend</h3>
+            <span class="timeline-company">Datanerdz AI Pvt. Ltd</span>
           </div>
-          <span class="timeline-date">Jun 2025 – Aug 2025</span>
+          <span class="timeline-date">Dec 2025 – Jan 2026</span>
         </div>
-        <p class="timeline-desc">Developed responsive and user-friendly web applications using HTML, CSS, JavaScript, and React.js. Collaborated with the development team to build, test, and enhance web application features. Optimized website performance and resolved UI issues to improve the overall user experience.</p>
+        <p class="timeline-desc">Implemented responsive web layouts and interface mockups using semantic HTML5, CSS3 modules, and vanilla JavaScript. Contributed to resolving responsive viewport bugs, improving page loading speeds, and optimizing graphic assets.</p>
       </div>
     </div>
 
@@ -1322,10 +1304,8 @@
   </div>
 </section>
 
-<!-- CERTIFICATIONS & EDUCATION -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 2rem; padding: 0 clamp(1.5rem, 6vw, 6rem); max-width: 1300px; margin: 0 auto; width: 100%;">
-  <!-- Certifications -->
-  <section id="certifications" style="padding: 2rem 0;">
+<!-- CERTIFICATIONS -->
+<section id="certifications">
     <p class="section-label">Certifications</p>
     <h2 class="section-title">Achievements</h2>
     <div class="certs-grid" style="margin-top: 2rem;">
@@ -1414,10 +1394,10 @@
         </div>
       </div>
     </div>
-  </section>
+</section>
 
-  <!-- Education -->
-  <section id="education" style="padding: 2rem 0;">
+<!-- EDUCATION -->
+<section id="education">
     <p class="section-label">Education</p>
     <h2 class="section-title">Academic History</h2>
     <div class="edu-cards" style="margin-top: 2rem;">
@@ -1436,8 +1416,7 @@
         <span class="edu-badge">74.3%</span>
       </div>
     </div>
-  </section>
-</div>
+</section>
 
 <!-- CONTACT -->
 <section id="contact" style="padding: 5rem clamp(1.5rem, 8vw, 8rem);">
