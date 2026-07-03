@@ -34,11 +34,7 @@ portfolio/
 └── README.md
 ```
 
-## 💻 Live Demo
 
-Visit the live portfolio here:
-
-**https://your-portfolio-link.vercel.app**
 
 
 
